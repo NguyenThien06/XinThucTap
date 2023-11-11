@@ -1,0 +1,10 @@
+Model ở Core tương tác trực tiếp với data
+Model ở App truyền câu truy vấn
+Administrator
+
+từ video 35 làm làm phần public cần xem lại vào làm lại
+
+Buổi 36
+Buổi 37 làm phần getFillter và làm thêm phần cùng danh mục sản phẩm 
+Buổi 38 làm phần cart giỏ hàng
+Buổi 39 làm phần giỏ hàng liên hệ giữ customer với sản phẩm và phần gửi mail

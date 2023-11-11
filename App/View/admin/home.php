@@ -1,0 +1,1 @@
+<h2>Đây là phần nội dung trang home</h2>
